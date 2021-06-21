@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Overview<a name="overview"></a>
 
-This data set is created only for the learning purpose of the customer segmentation concepts. You are owing a supermarket mall and through membership cards, you have some basic data about your customers and want to understand the customers like who can be easily converge Target Customer so that the sense can be given to marketing team and plan the strategy accordingly.
+This data set was created for learning purposes of the customer segmentation concepts. You own a supermarket and through membership cards, you have some basic data about your customers and want to improve your marketing strategy by understanding your customers characteristics and buying behavior and give that to your marketing team plan future campaigns.
 
 ## File Descriptions <a name="files"></a>
 
@@ -34,7 +34,6 @@ Below is a chart called "Elbow Method" and is used to identify the best number o
 Here we have two types of clustering, the first one on the left chart it was using a simple scatter plot with the costumer gender. On the right chart, we have four clusters analysing AGE and COSTUMER_SCORE using the Kmeans algorith . You will find other types of clusterings in the code.
 
 ![image](https://user-images.githubusercontent.com/77889112/121788895-ae595880-cba7-11eb-8ef4-c1dac7b1be13.png)
-
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
